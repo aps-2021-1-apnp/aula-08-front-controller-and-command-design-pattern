@@ -1,5 +1,4 @@
 import { createServer } from 'http'
-import { parse } from 'url'
 import { FrontController, Method } from './FrontController'
 import { todosUsuariosCommand, novoUsuarioCommand} from './usuario'
 
